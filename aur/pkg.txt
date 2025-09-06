@@ -1,0 +1,59 @@
+# Development
+aws-cli-bin
+aws-sam-cli-bin
+awsvpnclient
+beekeeper-studio-bin
+lens-bin
+visual-studio-code-bin
+docker
+docker-compose
+docker-buildx
+dbeaver
+eksctl
+go
+lazygit
+yarn
+pnpm
+postgresql
+mise
+
+# CLI Power Tools (optional but recommended)
+ripgrep
+fd
+bat
+exa
+jq
+httpie
+bottom
+lazydocker
+
+# Coding Tools
+opencode-bin
+
+# Apps
+filen-desktop-git
+galaxybudsclient-bin
+msty-bin
+proton-mail-bin
+proton-pass-bin
+teamviewer
+telegram-desktop-bin
+zoom
+droidcam
+brave-bin
+discord
+etcher-bin
+firefox
+libreoffice-still
+obs-studio
+obsidian
+pavucontrol
+proton-vpn-gtk-app
+zen-browser-bin
+
+# Fonts & Misc
+flatpak
+ttf-opensans
+noto-fonts
+noto-fonts-emoji
+ttf-nerd-fonts-complete
